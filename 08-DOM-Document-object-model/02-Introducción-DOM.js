@@ -12,9 +12,11 @@
     - Node:    es una unidad más básica, la cuál puede ser  Element o un nodo de texto.
   */
 
+
+
 //* #3. Elementos del document
 
-  console.log(window.document);  //imprime todo el mapeo del DOM - doctype
+  console.log(window.document);  //imprime todo el mapeo del DOM - doctype 
   console.log(document);  //imprime todo el mapeo del DOM - doctype
   console.log(document.head);  //imprime solo el head del html
   console.log(document.body);  //imprime solo el body del html
@@ -31,6 +33,7 @@
     console.log(document.getSelection().toString());
   }, 2000);
   document.write("<h2>Hola Mundo desde el DOM</h2>");
+
 
 
 
