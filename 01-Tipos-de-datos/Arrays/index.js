@@ -1,12 +1,11 @@
 //* #1. Definición 
-    /*Un array es una colección de elementos. Los arrays son objetos similares a una lista cuyo prototipo proporciona métodos para efectuar operaciones de recorrido y de mutación.El array siempre va a empezar en la posición cero.*/
+    // Es una colección de elementos. Los arrays son objetos similares a una lista, cuyo prototipo proporciona métodos para efectuar operaciones de recorrido y de mutación.El array siempre va a empezar en la posición cero.
 
 //* #2. Crear un arreglo
         let frutas = ["Manzana", "Banana", "Manzana", "Banana"]
         console.log(frutas) //[ 'Manzana', 'Banana' ]
 
-//* #3. Conocer la longitud
-        // Length
+//* #3. Conocer la longitud (length)
 
         let frutas2 = ["Manzana", "Banana", "Uva", "Granadilla"]
         console.log(frutas.length) //2

@@ -1,22 +1,21 @@
 //* # 1. WHILE
+    // Crea un bucle que ejecuta una sentencia especificada mientras cierta condición se evalúe como verdadera. Dicha condición es evaluada antes de ejecutar la sentencia. Este se ejecutará siempre y cuando la condición sea verdadera. SE UTILIZA CUANDO NO CONOCEMOS LA CANTIDAD DE VECES QUE QUEREMOS QUE SE REPITA SE UTILIZA WHILE
 
-        /*Crea un bucle que ejecuta una sentencia especificada mientras cierta condición se evalúe como verdadera. Dicha condición es evaluada antes de ejecutar la sentencia. Este se ejecutará siempre y cuando la condición sea verdadera. SE UTILIZA CUANDO NO CONOCEMOS LA CANTIDAD DE VECES QUE QUEREMOS QUE SE REPITA SE UTILIZA WHILE
+    /* Sintaxis
+        while (condicion)
+    sentencia
+    */
 
-        /* Sintaxis
-            while (condicion)
-        sentencia
-        */
+    // imprimir los números del 0 al 100
 
-        // imprimir los números del 0 al 100
+        let contador1 = 0;
 
-            let contador1 = 0;
+        while (contador1 < 10) {
+            console.log(contador1) //Imprime Los números de 1-9  /* 0 1 2 3 4 5 6 7 8 9 */
+            contador1++;
+        }
 
-            while (contador1 < 10) {
-                console.log(contador1) //Imprime Los números de 1-9  /* 0 1 2 3 4 5 6 7 8 9 */
-                contador1++;
-            }
-
-            console.log(`El valor final de contador es: ${contador1}`) //Imprime 10 porqué es el valor que tiene como final para parar el ciclo, 
+        console.log(`El valor final de contador es: ${contador1}`) //Imprime 10 porqué es el valor que tiene como final para parar el ciclo, 
 
 //* #2. DO... WHILE 
 
@@ -39,12 +38,12 @@
 
 //* # 3. FOR (ciclo más utilizado)
 
-        /*SE USA CUANDO CONOCEMOS LA CANTIDAD DE VECES QUE EL BUCLE SE VA A EJECUTAR. Dicha estructura  consta de tres partes: 
+    // SE USA CUANDO CONOCEMOS LA CANTIDAD DE VECES QUE EL BUCLE SE VA A EJECUTAR. Dicha estructura  consta de tres partes: 
 
-            for ([inicialización de la variable]; [condicion]; [decremento o incremento]){
-            sentencia
-            }
-        */
+    /*  for ([inicialización de la variable]; [condicion]; [decremento o incremento]){
+        sentencia
+        }
+    */   
 
         // Ejemplo 1
             for (let i = 0; i < 10; i++) {

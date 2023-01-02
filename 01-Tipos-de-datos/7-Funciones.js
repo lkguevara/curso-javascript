@@ -1,15 +1,9 @@
 //* #1. Definición
-    /*
-    Una función es un bloque de código, autocontenido, que se puede definir una vez y ejecutar en cualquier momento. Opcionalmente, una función puede aceptar parámetros y devolver un valor.
-
-    Las funciones en JavaScript son objetos, un tipo especial de objetos:
-
-    Se dice que las funciones son ciudadanos de primera clase porque pueden asignarse a un valor, y pueden pasarse como argumentos y usarse como un valor de retorno.
-    */
+    // Las funciones son un tipo especial de objetos. Una función es un bloque de código, autocontenido, que se puede definir una vez y ejecutar en cualquier momento. Opcionalmente, una función puede aceptar parámetros y devolver un valor. Las funciones en JavaScript son objetos, un tipo especial de objetos:
 
     /*
         function miFuncion("parametros") {
-            // Instrucciones
+            Instrucciones
         }
 
         miFuncion("Atributos");
@@ -128,11 +122,7 @@
 
 //* #4. Funciones expresadas (Funcion anónima)
 
-        /*
-             - Son funciones sin un nombre o identificador. Debido a esto se pueden pasar a otras funciones o asignar a variables
-             - Cuando una función anonima se asigna a una variable, el nomrbe de la variable es el que usamos para llamar a la función.
-
-        */
+        // Son funciones sin un nombre o identificador. Debido a esto se pueden pasar a otras funciones o asignar a variables. Cuando una función anonima se asigna a una variable, el nomrbe de la variable es el que usamos para llamar a la función.
 
         // Ejemplo 1.
         const funcionExpresada = function (saludar) {

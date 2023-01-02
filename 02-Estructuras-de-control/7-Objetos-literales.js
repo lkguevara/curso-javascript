@@ -10,7 +10,7 @@
     // * Ejemplo 1
 
         // Objeto literal
-        let perro = {
+        let dog = {
             nombre:"Scott",
             color:"Cafe",
             edad: 5,
@@ -22,7 +22,7 @@
 
         // Objeto
 
-        let perro = {
+        let dog2 = {
             nombre,
             color,
             edad,

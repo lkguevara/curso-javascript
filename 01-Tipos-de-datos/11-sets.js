@@ -1,7 +1,5 @@
 // * #1. Definición
-    /*
-        Arreglo que admite datos únicos, no se pueden repetir
-    */
+    // Arreglo que admite datos únicos, no se pueden repetir
 
 // * #2. Ejemplos
 

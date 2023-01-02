@@ -1,4 +1,4 @@
-//* concat()---> se usa para unir dos o más arrays. sintaxis: nuevo_array = arreglo1.concat(arreglos a añadir)
+//* concat(): se usa para unir dos o más arrays. sintaxis: nuevo_array = arreglo1.concat(arreglos a añadir)
 
 let array1 = ['a', 'b', 'c'];
 let array2 = ['d', 'e', 'f'];

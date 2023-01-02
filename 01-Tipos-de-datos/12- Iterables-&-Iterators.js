@@ -1,19 +1,9 @@
 // * # Iterables
+    // Es una estructura de datos líneal, que hace que sus elementos sean públicos y se puedan recorrer. Ejemplo: arrays, string, map, elementos del DOM... entre otros.
 
-    /*
-        Es una estructura de datos líneal, que hace que sus elementos sean públicos y se puedan recorrer. Ejemplo: arrays, string, map, elementos del DOM... entre otros.
-
-        Elemento que su contenido se puede recorrer.
-    */
    
 // * # Iterador
-
-    /*
-        Apuntador que va recorriendo los elementos de la misma estructura de dato.
-
-        Mecanismo para recorrer el elemento
-    */
-
+    // Apuntador que va recorriendo los elementos de la misma estructura de dato. Mecanismo para recorrer el elemento
 
 //* Ejemplos
 

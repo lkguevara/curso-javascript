@@ -37,22 +37,6 @@
 
             console.log(`Variable musica después del bloque ${musica2}`) //Variable musica después del bloque rock
 
-                /*
-                UTILIZANDOD VAR
-
-                Variable musica antes del bloque Rock
-                Variable musica dentro del bloque pop
-                Variable musica después del bloque pop
-
-                **************************************************
-
-                UTILIZANDO LET
-
-                letiable musica antes del bloque Rock
-                Variable musica dentro del bloque pop
-                Variable musica después del bloque Rock
-                */
-
         // # Ejemplo 2
             let nombre = "lian Guevara"
             console.log(nombre)
@@ -61,7 +45,6 @@
 
             nombre = "Katherin Guevara"
             console.log(nombre)
-
 
 
 //* #3 Constantes
@@ -79,8 +62,8 @@
     const hola = 'hola mundo';
     hola = 'hola mundo'; // Imprime Uncaught TypeError: Assignment to constant variable
 
-    const PI;
-    PI = 3.141592653589793; //Imprime Missing initializer in const declaration
+    // const PI;
+    // PI = 3.141592653589793; //Imprime Missing initializer in const declaration
 
     //Declaración correcta
     const D = document;

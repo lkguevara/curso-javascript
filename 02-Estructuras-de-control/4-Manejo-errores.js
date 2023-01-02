@@ -1,4 +1,4 @@
-// #1. try...catch --> señala un bloque de instrucciones a intentar (try), y especifica una respuesta si se produce una excepción (catch).
+//* #1. try...catch --> señala un bloque de instrucciones a intentar (try), y especifica una respuesta si se produce una excepción (catch).
 
     try {
     console.log("El el try se agrega el código a evaluar ") 
@@ -20,7 +20,7 @@
         El bloque finally Se ejecutará al final de un bloque try-cathc
     */
 
-// #2. Ejemplo:
+//* #2. Ejemplo:
 
     // isNaN--> me indica si es un numero
 

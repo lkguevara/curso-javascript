@@ -1,5 +1,4 @@
-//* #1.  if - else: 
-
+//* #1.  if - else
     // Estructura de programación que permite tomar una decisión y si está se cumple se ejecutarán ciertas acciones.
 
     let age = 17;
@@ -44,7 +43,7 @@
     console.log(drink)
     
 
-// # 4. Swicht - case: Diferentes valores para una variable. La palabra break es la que finaliza el caso
+//* # 4. Swicht - case: Diferentes valores para una variable. La palabra break es la que finaliza el caso
 
     /* 
         Domingo - 0

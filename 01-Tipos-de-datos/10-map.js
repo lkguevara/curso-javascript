@@ -1,12 +1,9 @@
 //* Definición
+    // Son objetos que permiten almacenar conjunto de valores asociados a manera de objetos. Colección de datos como objeto primitivo. Trabaja muy similar a los getter y setters
 
-/*
-    Son objetos que permiten almacenar conjunto de valores asociados a manera de objetos.
-    Colección de datos como objeto primitivo. Trabaja muy similar a los getter y setters
+    // método set - obtenedores
+    // método get - 
 
-    método set - obtenedores
-    método get - 
-*/
 
 
     let mapa = new Map(); 

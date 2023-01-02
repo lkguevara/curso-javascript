@@ -1,11 +1,6 @@
 // *# 1. Definición
-    /*
-        Symbol: es un tipo de datos cuyos valores son únicos e immutables. 
-        
-        Dichos valores pueden ser utilizados como identificadores (claves) de las propiedades de los objetos.  
-        
-        Cada valor del tipo Symbol tiene asociado un valor del tipo String o Undefined que sirve únicamente como descripción del símbolo.
-    */
+    //Es un tipo de datos cuyos valores son únicos e immutables. Dichos valores pueden ser utilizados como identificadores (claves) de las propiedades de los objetos. Cada valor del tipo Symbol tiene asociado un valor del tipo String o Undefined que sirve únicamente como descripción del símbolo.
+
 
 // *# 2. Ejemplos
 
@@ -23,7 +18,7 @@
         console.log(sym,sym2); //Imprime Symbol(id) Symbol(id2)
         console.log(typeof sym, typeof sym2); //Imprime symbol symbol
 
-    // Ejemplo 1
+    // Ejemplo 2
 
         const NOMBRE = Symbol();
 

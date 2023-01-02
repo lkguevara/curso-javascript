@@ -5,7 +5,8 @@
     console.log(greeting) //hola mi nombre es: Lian y mi apellido:  Guevara
 
 
-//* #2. Interpolación (Meter dentro de una cadena de texto el valor de una variable, **template string** ${nombreVariable})
+//* #2. Interpolación 
+// (Introducir dentro de una cadena de texto el valor de una variable, **template string** ${nombreVariable})
 
     let nombre = "Lian";
     let apellido = " Guevara"
