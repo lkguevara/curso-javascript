@@ -30,12 +30,6 @@ const imprimePropiedades = ({nombre, color, edad, macho}) =>{
 
 imprimePropiedades (perro)
 
-//Imprime: 
-/* 
-    { nombre: 'Scott' }
-    { color: 'Cafe' }
-    { edad: 5 }
-    { macho: true } 
-*/
+
 
      
