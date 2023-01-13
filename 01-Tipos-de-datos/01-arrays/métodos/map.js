@@ -27,6 +27,9 @@
     // aplicando MAP
     const newArr3 = multiplyElements.map(e => e * 2);
     console.log(`Original : ${multiplyElements} nuevo: ${newArr3}`)
+
+//* ejemplo 3
+ 
     
 
         
